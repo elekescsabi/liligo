@@ -1,0 +1,8 @@
+
+.DS_Store
+.gitattributes
+*.csv
+*.csv.gz
+*.db
+*.geojson
+.ipynb_checkpoints/*

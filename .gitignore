@@ -6,3 +6,4 @@
 *.db
 *.geojson
 .ipynb_checkpoints/*
+Liligo.ipynb
